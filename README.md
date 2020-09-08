@@ -1,3 +1,3 @@
 # NotebookShop-FirstProject
 # Django
-[alt text](screenshots/django.png "Версии Python and Django")
+# [Скриншот показывающий какие установлены версии Python и Django](https://ibb.co/YTcqKTD)
